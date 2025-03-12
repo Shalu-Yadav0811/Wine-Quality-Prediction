@@ -121,6 +121,6 @@ The models were evaluated based on accuracy, and the **best-performing model** w
 ---
 
 ## **Contributors**  
-- **Shrinithi V** (Developer & Data Scientist)  
+- **Shalu Yadav** (Developer & Data Analyst)  
 
 ---
